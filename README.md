@@ -4,7 +4,7 @@
 
 🚀 **Introduction:**
 
-Welcome to Radiant Riches, a stunning Next.js/ReactJS website showcasing the beauty of modular components and responsive design. This project is a conversion of a one-page design from Figma into a fully functional website.
+Welcome to Radiant Riches! Our Next.js/ReactJS website is a testament to the seamless integration of modular components and responsive design. We've brought to life a captivating one-page design from Figma, transforming it into a fully functional and visually stunning online experience. Explore the elegance of our website as we invite you to immerse yourself in the beauty of Radiant Riches.
 
 ---
 
@@ -68,7 +68,7 @@ Radiant Riches is built with responsiveness in mind, ensuring a seamless experie
 2. Install dependencies:
 
    ```bash
-   cd Radiant-Riches
+   cd radiant-riches-llc
    npm install
    ```
 
