@@ -62,7 +62,7 @@ Radiant Riches is built with responsiveness in mind, ensuring a seamless experie
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/harshkhavale/Radiant-Riches.git
+   git clone https://github.com/kritikaVijaysinghRajput/radiant-riches-llc.git
    ```
 
 2. Install dependencies:
@@ -86,9 +86,9 @@ Radiant Riches is built with responsiveness in mind, ensuring a seamless experie
 
 For any inquiries or feedback, feel free to reach out:
 
-📧 Email: harshkhavale1102@gmail.com
+📧 Email: kritikarajput203@gmail.com
 
-🔗 Linkedin: https://www.linkedin.com/in/harshkhavale11/
+🔗 Linkedin: https://www.linkedin.com/in/kritika-rajput/
 
 ---
 
@@ -109,4 +109,4 @@ The Radiant Riches website is hosted at [https://radiant-riches-llc-cjob.vercel.
 🚀 Thank you for considering my submission for the ReactJS/NextJS internship assignment! I'm excited about the opportunity to contribute to Radiant Riches LLC and showcase my skills in web development. Looking forward to hearing from you soon.
 
 Best regards,
-Harsh Khavale
+Kritika Rajput
